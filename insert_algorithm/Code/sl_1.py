@@ -1,3 +1,4 @@
+# 全象限的直线插补算法python实现
 from pylab import *
 xe = int(input("please enter the end point of then end point"))
 ye = int(input("please enter the end point coordinate"))
